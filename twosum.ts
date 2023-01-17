@@ -1,6 +1,6 @@
 let in_arr = [9, 2, 4, 8, 1, 3, 1, 2, 22, 34, 21, 4, 53, 12];
 let stack: number[] = [];
-let tg = 0;
+let tg = 13;
 let get_flag = false;
 
 function recursion(d: number, arr: number[]) {
